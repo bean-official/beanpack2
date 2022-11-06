@@ -7,8 +7,6 @@
 More woodland and desert wildlife.
 ### [Doggy Talents 2](https://www.curseforge.com/minecraft/mc-mods/doggy-talents)
 Enhancements to pet wolves with leveling and talents.
-### [Lovely Snails](https://www.curseforge.com/minecraft/mc-mods/lovely-snails)
-Snails you can tame and raise.
 ### [Duckling](https://www.curseforge.com/minecraft/mc-mods/duckling)
 For when one feels like a duck splashing around in all this wet.
 
